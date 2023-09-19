@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet">
 <br />
-
 Hello everyone, I am a **web front-end** developer from **Anhui**
 
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
